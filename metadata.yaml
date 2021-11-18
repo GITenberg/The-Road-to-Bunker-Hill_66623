@@ -1,0 +1,27 @@
+_repo: The-Road-to-Bunker-Hill_66623
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Barker, Shirley
+    gutenberg_agent_id: '53886'
+    url: http://www.gutenberg.org/2009/agents/53886
+description: ''
+gutenberg_issued: '2021-10-27'
+identifiers:
+  gutenberg: '66623'
+language: en
+pgterms:marc904: https://hdl.handle.net/2027/nyp.33433044862765
+pgterms:marc905: 20201215091910barker
+pgterms:marc906: '1962'
+pgterms:marc907: US
+production_note: Tim Lindell, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: United States :Duell, Sloan and Pearce,1962.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Road to Bunker Hill
+url: http://www.gutenberg.org/ebooks/66623
