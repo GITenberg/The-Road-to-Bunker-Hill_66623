@@ -1,11 +1,16 @@
 _repo: The-Road-to-Bunker-Hill_66623
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66623-h/images/cover.jpg
 creator:
   author:
     agent_name: Barker, Shirley
     gutenberg_agent_id: '53886'
     url: http://www.gutenberg.org/2009/agents/53886
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66623#The-Road-to-Bunker-Hill
 gutenberg_issued: '2021-10-27'
 identifiers:
   gutenberg: '66623'
